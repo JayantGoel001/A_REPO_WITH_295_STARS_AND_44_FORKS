@@ -49,7 +49,7 @@ async function run() {
       const [owner, repo] = full_name.split("/")
       const name = `A_REPO_WITH_${stargazers_count}_STARS`
       const title = `A REPO WITH ${stargazers_count} STARS ⭐️`
-      const msg = `[${actor}](https://github.com/${actor}) helped me count the ${toOrd(stargazers_count)} star.`
+      const msg = `[${actor}](https://github.com/${actor}) helped me reach the ${toOrd(stargazers_count)} star.`
       
       // Break if repo name is not updated
       if (repo == name) { return }
@@ -70,7 +70,7 @@ async function run() {
           path: "README.md",
         }
       )
-      console.log(readmeFile.data.content);
+      console.log(readmeFile.data.content.toString("base64"));
       const readmeContents = [
         `# ${title}`,
         msg
