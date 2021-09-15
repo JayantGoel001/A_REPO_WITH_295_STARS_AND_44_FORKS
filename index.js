@@ -46,10 +46,10 @@ async function run() {
       )
     }
 
-    filteredRepos.forEach(async ({ full_name, stargazers_count }) => {
+    filteredRepos.forEach(async ({ full_name, stargazers_count,forks_count }) => {
       const [owner, repo] = full_name.split("/")
       const name = `A-REPO-WITH-${stargazers_count}-STARS-And-${forks_count}-Forks`
-      const title = `A-REPO-WITH-${stargazers_count} STARS ⭐️ And ${forks_count} Forks`
+      const title = `A-REPO-WITH-${stargazers_count} STARS ⭐️ And ${forks_count} Forks.`
       const msg = `[${actor}](https://github.com/${actor}) helped me reach the count of ${toOrd(stargazers_count)} Star and ${toOrd(forks_count)} Fork.`
       
       // Break if repo name is not updated
@@ -74,12 +74,8 @@ async function run() {
       
       const readmeContents = [
         `# ${title}`,
+        readmeFile.data.content,
         msg,
-        "## The star count is wrong?",
-        "Then help me fix it. CLICK THE STAR!",
-        "## Want to contribute?",
-        "Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!",
-        "## [Q&A](https://github.com/narze/THIS_REPO_HAS_X_STARS/wiki/Q&A)",
       ]
 
       await octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
