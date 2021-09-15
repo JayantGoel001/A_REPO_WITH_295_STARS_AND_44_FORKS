@@ -74,6 +74,7 @@ async function run() {
       console.log(readmeContent.split("\n").slice(1));
       const readmeContents = [
         `# ${title}`,
+        '',
         ...readmeContent.split("\n").slice(1),
         msg
       ]
