@@ -38,6 +38,7 @@ async function run() {
         name: repo.name,
         full_name: repo.full_name,
         stargazers_count: repo.stargazers_count,
+        forks_count : repo.forks_count,
       }))
 
       filteredRepos = filteredRepos.concat(
@@ -47,9 +48,9 @@ async function run() {
 
     filteredRepos.forEach(async ({ full_name, stargazers_count }) => {
       const [owner, repo] = full_name.split("/")
-      const name = `A_REPO_WITH_${stargazers_count}_STARS`
-      const title = `A REPO WITH ${stargazers_count} STARS ⭐️`
-      const msg = `[${actor}](https://github.com/${actor}) helped me reach the ${toOrd(stargazers_count)} star.`
+      const name = `A_REPO_WITH_${stargazers_count}_STARS_AND_${forks_count}_FORKS.`
+      const title = `A REPO WITH ${stargazers_count} STARS ⭐️ AND ${forks_count} FORKS.`
+      const msg = `[${actor}](https://github.com/${actor}) helped me reach ${toOrd(stargazers_count)} stars and ${toOrd(forks_count)}.`
       
       // Break if repo name is not updated
       if (repo == name) { return }
@@ -74,9 +75,8 @@ async function run() {
       console.log(readmeContent.split("\n").slice(1));
       const readmeContents = [
         `# ${title}`,
-        '',
         ...readmeContent.split("\n").slice(1),
-        msg
+        " - " + msg
       ]
 
       await octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
@@ -84,7 +84,7 @@ async function run() {
         repo,
         path: "README.md",
         message: `⭐️ ${stargazers_count}`,
-        content: Buffer.from(readmeContents.join("\n")).toString("base64"),
+        content: Buffer.from(readmeContents.join("\n\n")).toString("base64"),
         sha: readmeFile.data.sha,
         author: {
           name: actor,
