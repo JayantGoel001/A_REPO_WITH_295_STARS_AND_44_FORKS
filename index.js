@@ -1,5 +1,5 @@
-const core = require("@actions/core")
-const github = require("@actions/github")
+import { getInput, setFailed } from "@actions/core";
+import { getOctokit } from "@actions/github";
 
 function toOrd(n) {
   const s = ["th", "st", "nd", "rd"],
@@ -9,9 +9,9 @@ function toOrd(n) {
 
 async function run() {
   try {
-    const githubToken = core.getInput("githubToken")
-    const actor = core.getInput("actor") || ""
-    const octokit = github.getOctokit(githubToken)
+    const githubToken = getInput("githubToken")
+    const actor = getInput("actor") || ""
+    const octokit = getOctokit(githubToken)
     const username = "JayantGoel001"
 
     let filteredRepos = []
@@ -100,7 +100,7 @@ async function run() {
       })
     })
   } catch (error) {
-    core.setFailed(error.message)
+    setFailed(error.message)
   }
 }
 
