@@ -71,9 +71,10 @@ async function run() {
       var b = new Buffer(readmeFile.data.content, 'base64')
 
       var readmeContent = b.toString();
-      console.log(readmeContent);
+      console.log(readmeContent.split("\n").slice(2));
       const readmeContents = [
         `# ${title}`,
+        ...readmeContent.split("\n").slice(2),
         msg
       ]
 
