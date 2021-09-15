@@ -1,4 +1,4 @@
-name: "A-REPO-WITH-X-STARS-And-Y-FORKS"
+name: "A_REPO_WITH_X_STARS_And_Y_FORKS"
 description: "Rename this repo"
 inputs:
   githubToken:
