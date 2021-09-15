@@ -3,7 +3,7 @@ name: "Run"
 on:
   workflow_dispatch:
   watch:
-    types: [started]
+    types: [started,fork]
   schedule:
     - cron: "0 * * * *"
 
