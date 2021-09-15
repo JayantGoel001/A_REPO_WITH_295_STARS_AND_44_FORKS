@@ -48,7 +48,7 @@ async function run() {
 
     filteredRepos.forEach(async ({ full_name, stargazers_count,forks_count }) => {
       const [owner, repo] = full_name.split("/")
-      const name = `A_REPO_WITH_${stargazers_count}_STARS_AND_${forks_count}_FORKS.`
+      const name = `A_REPO_WITH_${stargazers_count}_STARS_AND_${forks_count}_FORKS`
       const title = `A REPO WITH ${stargazers_count} STARS ⭐️ AND ${forks_count} FORKS`
       const msg = `[${actor}](https://github.com/${actor}) helped me reach ${toOrd(stargazers_count)} stars and ${toOrd(forks_count)} forks.`
       
