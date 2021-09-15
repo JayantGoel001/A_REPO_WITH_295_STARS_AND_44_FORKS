@@ -1,5 +1,5 @@
-import { getInput, setFailed } from "@actions/core";
-import { getOctokit } from "@actions/github";
+const core = require("@actions/core")
+const github = require("@actions/github")
 
 function toOrd(n) {
   const s = ["th", "st", "nd", "rd"],
