@@ -60,8 +60,6 @@ async function run() {
         name,
       })
 
-      console.log(`Repo name updated to ${name}`)
-
       const readmeFile = await octokit.request(
         "GET /repos/{owner}/{repo}/contents/{path}",
         {
@@ -70,7 +68,8 @@ async function run() {
           path: "README.md",
         }
       )
-      console.log(readmeFile.data.content.toString("base64"));
+      console.log(readmeFile);
+      console.log(readmeFile.data);
       const readmeContents = [
         `# ${title}`,
         msg
