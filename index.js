@@ -71,7 +71,7 @@ async function run() {
       var b = new Buffer(readmeFile.data.content, 'base64')
 
       var readmeContent = b.toString();
-      console.log(readmeContent.split("\n").slice(2));
+      console.log(readmeContent.split("\n").slice(1));
       const readmeContents = [
         `# ${title}`,
         ...readmeContent.split("\n").slice(2),
@@ -83,7 +83,7 @@ async function run() {
         repo,
         path: "README.md",
         message: `⭐️ ${stargazers_count}`,
-        content: Buffer.from(readmeContents.join("\n\n")).toString("base64"),
+        content: Buffer.from(readmeContents.join("\n")).toString("base64"),
         sha: readmeFile.data.sha,
         author: {
           name: actor,
