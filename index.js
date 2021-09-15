@@ -68,7 +68,7 @@ async function run() {
           path: "README.md",
         }
       )
-      console.log(readmeFile.data.content.toString("base64"));
+      console.log(atob(readmeFile.data.content));
       const readmeContents = [
         `# ${title}`,
         msg
