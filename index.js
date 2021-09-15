@@ -68,7 +68,10 @@ async function run() {
           path: "README.md",
         }
       )
-      console.log(readmeFile.data.content.toString());
+      var b = new Buffer(readmeFile.data.content, 'base64')
+
+      var readmeContent = b.toString();
+      console.log(readmeContent);
       const readmeContents = [
         `# ${title}`,
         msg
