@@ -49,7 +49,7 @@ async function run() {
       const [owner, repo] = full_name.split("/")
       const name = `A_REPO_WITH_${stargazers_count}_STARS`
       const title = `A_REPO_WITH_${stargazers_count} STARS ⭐️`
-      const msg = `[${actor}](https://github.com/${actor}) helped me count the ${toOrd(stargazers_count)} star, thank you!`
+      const msg = `[${actor}](https://github.com/${actor}) helped me count the ${toOrd(stargazers_count)} star.`
       
       // Break if repo name is not updated
       if (repo == name) { return }
@@ -73,12 +73,8 @@ async function run() {
       
       const readmeContents = [
         `# ${title}`,
-        msg,
-        "## The star count is wrong?",
-        "Then help me fix it. CLICK THE STAR!",
-        "## Want to contribute?",
-        "Clicking the star will trigger the commit which includes the clicker's name to the contributors list. So CLICK THE STAR!",
-        "## [Q&A](https://github.com/narze/THIS_REPO_HAS_X_STARS/wiki/Q&A)",
+        readmeFile.data.content,
+        msg
       ]
 
       await octokit.request("PUT /repos/{owner}/{repo}/contents/{path}", {
