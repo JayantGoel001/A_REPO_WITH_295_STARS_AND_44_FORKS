@@ -48,7 +48,7 @@ async function run() {
     filteredRepos.forEach(async ({ full_name, stargazers_count }) => {
       const [owner, repo] = full_name.split("/")
       const name = `A_REPO_WITH_${stargazers_count}_STARS`
-      const title = `A_REPO_WITH_${stargazers_count} STARS ⭐️`
+      const title = `A REPO WITH ${stargazers_count} STARS ⭐️`
       const msg = `[${actor}](https://github.com/${actor}) helped me count the ${toOrd(stargazers_count)} star.`
       
       // Break if repo name is not updated
@@ -70,10 +70,9 @@ async function run() {
           path: "README.md",
         }
       )
-      
+      console.log(readmeFile.data.content);
       const readmeContents = [
         `# ${title}`,
-        readmeFile.data.content,
         msg
       ]
 
