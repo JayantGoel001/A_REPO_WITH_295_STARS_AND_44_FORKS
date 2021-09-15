@@ -52,9 +52,6 @@ async function run() {
       const title = `A REPO WITH ${stargazers_count} STARS ⭐️ AND ${forks_count} FORKS.`
       const msg = `[${actor}](https://github.com/${actor}) helped me reach ${toOrd(stargazers_count)} stars and ${toOrd(forks_count)}.`
       
-      // Break if repo name is not updated
-      if (repo == name) { return }
-      
       await octokit.request("PATCH /repos/{owner}/{repo}", {
         owner,
         repo,
