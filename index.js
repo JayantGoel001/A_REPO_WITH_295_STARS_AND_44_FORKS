@@ -27,7 +27,7 @@ async function run() {
             await r.request("PATCH /repos/{owner}/{repo}", { owner: n, repo: s, name: c });
             const p = await r.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: n, repo: s, path: "README.md" });
             
-            const m = `# ${u}` +"\n\n"+  (new Buffer(p.data.content, "base64").toString().split("\n").slice(1)).join() + "\n\n" + " - " + i;
+            const m = `# ${u}` +"\n\n"+  (new Buffer(p.data.content, "base64").toString().split("\n").slice(1)).join("\n") + "\n\n" + " - " + i;
             console.log(m);
             await r.request("PUT /repos/{owner}/{repo}/contents/{path}", {
                 owner: n,
