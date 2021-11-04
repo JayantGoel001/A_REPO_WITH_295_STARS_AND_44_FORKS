@@ -1,4 +1,4 @@
-# A REPO WITH 6 STARS ⭐️ AND 2 FORKS
+# A REPO WITH 7 STARS ⭐️ AND 2 FORKS
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
 - [LeviAckermanAOT](https://github.com/LeviAckermanAOT) helped me reach 2nd stars and 0th forks.
@@ -70,3 +70,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 6th stars and 2nd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 6th stars and 2nd forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 7th stars and 2nd forks.
