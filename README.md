@@ -19,28 +19,6 @@
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
-
 - [womackmark15](https://github.com/womackmark15) helped me reach 9th stars and 2nd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 9th stars and 2nd forks.
