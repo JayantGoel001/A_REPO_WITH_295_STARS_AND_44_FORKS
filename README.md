@@ -16,3 +16,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 7th stars and 2nd forks.
 
 - [IntegrityKnightAlice](https://github.com/IntegrityKnightAlice) helped me reach 8th stars and 2nd forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 8th stars and 2nd forks.
