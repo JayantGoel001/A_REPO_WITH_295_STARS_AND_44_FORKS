@@ -26,7 +26,7 @@ async function run() {
                 i = `- [${t}](https://github.com/${t}) helped me reach ${toOrd(o)} stars and ${toOrd(r)} forks.`;
             await n.request("PATCH /repos/{owner}/{repo}", { owner: a, repo: s, name: c });
             const p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
-            const xy = new Buffer(p.data.content, "base64").toString().split("\n");
+            let xy = new Buffer(p.data.content, "base64").toString().split("\n");
 
             if(xy[xy.length - 1] == i || xy[xy.length - 2] == i){
                 xy = xy.slice(0,-2);
