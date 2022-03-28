@@ -23,14 +23,31 @@ async function run() {
             const [a, s] = e.split("/"),
                 c = `A_REPO_WITH_${o}_STARS_AND_${r}_FORKS`,
                 u = `A REPO WITH ${o} STARS ⭐️ AND ${r} FORKS`,
-                i = `[${t}](https://github.com/${t}) helped me reach ${toOrd(o)} stars and ${toOrd(r)} forks.`;
+                i = `- [${t}](https://github.com/${t}) helped me reach ${toOrd(o)} stars and ${toOrd(r)} forks.`;
             await n.request("PATCH /repos/{owner}/{repo}", { owner: a, repo: s, name: c });
             const p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
             const xy = new Buffer(p.data.content, "base64").toString().split("\n");
-            const m = `# ${u}` + "\n" + xy.slice(1).join("\n") + "\n- " + i + "\n";
 
-            console.log(xy[xy.length - 1]);
-            console.log(xy[xy.length - 2]);
+            if(xy[xy.length - 1] == i || xy[xy.length - 2] == i){
+                xy = xy.slice(0,-2);
+                const m = `# ${u}` + "\n" + xy.slice(1).join("\n") + "\n";
+                    
+                await n.request("PUT /repos/{owner}/{repo}/contents/{path}", {
+                    owner: a,
+                    repo: s,
+                    path: "README.md",
+                    message: `⭐️ ${o}`,
+                    content: Buffer.from(m).toString("base64"),
+                    sha: p.data.sha,
+                    author: { name: t, email: `${t}@users.noreply.github.com` },
+                    committer: { name: "Jayant goel", email: "jgoel92@gmail.com" },
+                });
+            }
+
+            const m = `# ${u}` + "\n" + xy.slice(1).join("\n") + "\n" + i + "\n";
+
+            console.log(xy[xy.length - 1] == i);
+            console.log(xy[xy.length - 2] == i);
 
             await n.request("PUT /repos/{owner}/{repo}/contents/{path}", {
                 owner: a,
