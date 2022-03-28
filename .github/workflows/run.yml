@@ -5,7 +5,7 @@ on:
   watch:
     types: [started,fork]
   schedule:
-    - cron: "* */6 * * *"
+    - cron: "*/30 * * * *"
 
 jobs:
   run:
