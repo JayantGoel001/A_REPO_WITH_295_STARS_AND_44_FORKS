@@ -26,8 +26,10 @@ async function run() {
                 i = `[${t}](https://github.com/${t}) helped me reach ${toOrd(o)} stars and ${toOrd(r)} forks.`;
             await n.request("PATCH /repos/{owner}/{repo}", { owner: a, repo: s, name: c });
             const p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
-            console.log(p.data.sha);
-            const m = `# ${u}` + "\n" + new Buffer(p.data.content, "base64").toString().split("\n").slice(1).join("\n") + "\n- " + i + "\n";
+            const m = `# ${u}` + "\n" + new Buffer(p.data.content, "base64").toString().split("\n");
+            console.log("X",m);
+            console.log("X",m[m.length - 1]);
+            m = m.slice(1).join("\n") + "\n- " + i + "\n";
             await n.request("PUT /repos/{owner}/{repo}/contents/{path}", {
                 owner: a,
                 repo: s,
