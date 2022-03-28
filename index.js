@@ -25,7 +25,7 @@ async function run() {
                 u = `A REPO WITH ${o} STARS ⭐️ AND ${r} FORKS`,
                 i = `- [${t}](https://github.com/${t}) helped me reach ${toOrd(o)} stars and ${toOrd(r)} forks.`;
             await n.request("PATCH /repos/{owner}/{repo}", { owner: a, repo: s, name: c });
-            const p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
+            let p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
             let xy = new Buffer(p.data.content, "base64").toString().split("\n");
 
             if(xy[xy.length - 1] == i || xy[xy.length - 2] == i){
@@ -42,12 +42,11 @@ async function run() {
                     author: { name: t, email: `${t}@users.noreply.github.com` },
                     committer: { name: "Jayant goel", email: "jgoel92@gmail.com" },
                 });
+                
+                p = await n.request("GET /repos/{owner}/{repo}/contents/{path}", { owner: a, repo: s, path: "README.md" });
             }
 
             const m = `# ${u}` + "\n" + xy.slice(1).join("\n") + "\n" + i + "\n";
-
-            console.log(xy[xy.length - 1] == i);
-            console.log(xy[xy.length - 2] == i);
 
             await n.request("PUT /repos/{owner}/{repo}/contents/{path}", {
                 owner: a,
