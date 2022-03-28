@@ -30,7 +30,7 @@ async function run() {
 
             if(xy[xy.length - 1] == i || xy[xy.length - 2] == i){
                 xy = xy.slice(0,-2);
-                const m = `# ${u}` + "\n" + xy.slice(1).join("\n") + "\n";
+                const m = `# ${u}` + "\n" + xy.slice(1).join("\n");
                     
                 await n.request("PUT /repos/{owner}/{repo}/contents/{path}", {
                     owner: a,
