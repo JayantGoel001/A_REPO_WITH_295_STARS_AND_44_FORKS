@@ -1,4 +1,4 @@
-# A REPO WITH 14 STARS ⭐️ AND 3 FORKS
+# A REPO WITH 13 STARS ⭐️ AND 3 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -37,3 +37,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 13th stars and 3rd forks.
 
 - [michael-azogu](https://github.com/michael-azogu) helped me reach 14th stars and 3rd forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 13th stars and 3rd forks.
