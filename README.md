@@ -33,5 +33,3 @@
 - [Cyebukayire](https://github.com/Cyebukayire) helped me reach 13th stars and 3rd forks.
 
 - [SarthakKotewale](https://github.com/SarthakKotewale) helped me reach 14th stars and 3rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 14th stars and 3rd forks.
