@@ -41,5 +41,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 16th stars and 3rd forks.
 
 - [guedesvf](https://github.com/guedesvf) helped me reach 17th stars and 3rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 16th stars and 3rd forks.
