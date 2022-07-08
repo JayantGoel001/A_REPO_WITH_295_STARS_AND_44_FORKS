@@ -45,5 +45,3 @@
 - [JhonnyLusonode](https://github.com/JhonnyLusonode) helped me reach 18th stars and 4th forks.
 
 - [JhonnyLusonode](https://github.com/JhonnyLusonode) helped me reach 18th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 18th stars and 5th forks.
