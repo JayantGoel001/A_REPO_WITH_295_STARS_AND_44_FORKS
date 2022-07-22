@@ -1,4 +1,4 @@
-# A REPO WITH 20 STARS ⭐️ AND 5 FORKS
+# A REPO WITH 19 STARS ⭐️ AND 5 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -55,3 +55,5 @@
 - [colias-palaeno](https://github.com/colias-palaeno) helped me reach 20th stars and 5th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
