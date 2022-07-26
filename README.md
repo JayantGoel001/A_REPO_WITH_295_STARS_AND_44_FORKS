@@ -59,5 +59,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
 
 - [chandradeepkumar16](https://github.com/chandradeepkumar16) helped me reach 19th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
