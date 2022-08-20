@@ -14,7 +14,7 @@
 
 - [AstakCodex](https://github.com/AstakCodex) helped me reach 5th stars and 2nd forks.
 
-- [slyg3nius](https://github.com/slyg3nius) helped me reach 6th stars and 2nd forks.
+- [slypy](https://github.com/slypy) helped me reach 6th stars and 2nd forks.
 
 - [AJAX-123456](https://github.com/AJAX-123456) helped me reach 7th stars and 2nd forks.
 
@@ -34,38 +34,14 @@
 
 - [SarthakKotewale](https://github.com/SarthakKotewale) helped me reach 14th stars and 3rd forks.
 
-- [FDufBos](https://github.com/FDufBos) helped me reach 15th stars and 3rd forks.
+- [d-coder111](https://github.com/d-coder111) helped me reach 15th stars and 4th forks.
 
-- [Sagar0-0](https://github.com/Sagar0-0) helped me reach 16th stars and 3rd forks.
+- [JhonnyLusonode](https://github.com/JhonnyLusonode) helped me reach 15th stars and 5th forks.
 
-- [snowMan108](https://github.com/snowMan108) helped me reach 16th stars and 4th forks.
+- [megyeriaron](https://github.com/megyeriaron) helped me reach 16th stars and 5th forks.
 
-- [d-coder111](https://github.com/d-coder111) helped me reach 17th stars and 4th forks.
+- [colias-palaeno](https://github.com/colias-palaeno) helped me reach 17th stars and 5th forks.
 
-- [JhonnyLusonode](https://github.com/JhonnyLusonode) helped me reach 18th stars and 4th forks.
+- [alexsavio](https://github.com/alexsavio) helped me reach 18th stars and 5th forks.
 
-- [JhonnyLusonode](https://github.com/JhonnyLusonode) helped me reach 18th stars and 5th forks.
-
-- [megyeriaron](https://github.com/megyeriaron) helped me reach 18th stars and 5th forks.
-
-- [1dav8](https://github.com/1dav8) helped me reach 19th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
-
-- [colias-palaeno](https://github.com/colias-palaeno) helped me reach 20th stars and 5th forks.
-
-- [alexsavio](https://github.com/alexsavio) helped me reach 20th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
-
-- [marcoschultznunes](https://github.com/marcoschultznunes) helped me reach 20th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
-
-- [PulkitMalhotra161001](https://github.com/PulkitMalhotra161001) helped me reach 21st stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
+- [marcoschultznunes](https://github.com/marcoschultznunes) helped me reach 19th stars and 5th forks.
