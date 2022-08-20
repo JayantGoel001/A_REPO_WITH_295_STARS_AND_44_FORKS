@@ -1,4 +1,4 @@
-# A REPO WITH 21 STARS ⭐️ AND 5 FORKS
+# A REPO WITH 20 STARS ⭐️ AND 5 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -65,3 +65,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
 
 - [PulkitMalhotra161001](https://github.com/PulkitMalhotra161001) helped me reach 21st stars and 5th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 20th stars and 5th forks.
