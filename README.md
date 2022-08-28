@@ -45,9 +45,3 @@
 - [alexsavio](https://github.com/alexsavio) helped me reach 18th stars and 5th forks.
 
 - [marcoschultznunes](https://github.com/marcoschultznunes) helped me reach 19th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
-
-- [hirenvadher954](https://github.com/hirenvadher954) helped me reach 20th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 19th stars and 5th forks.
