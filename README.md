@@ -53,5 +53,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 21st stars and 5th forks.
 
 - [Capn-Eustass-Kid](https://github.com/Capn-Eustass-Kid) helped me reach 22nd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
