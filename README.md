@@ -50,20 +50,4 @@
 
 - [Capn-Eustass-Kid](https://github.com/Capn-Eustass-Kid) helped me reach 22nd stars and 5th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
-
-- [kuhtini](https://github.com/kuhtini) helped me reach 23rd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
-
-- [madhead](https://github.com/madhead) helped me reach 23rd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
-
 - [CelticBoozer](https://github.com/CelticBoozer) helped me reach 23rd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 23rd stars and 5th forks.
-
-- [gavvvr](https://github.com/gavvvr) helped me reach 23rd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 23rd stars and 5th forks.
