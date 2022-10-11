@@ -53,5 +53,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
 
 - [kuhtini](https://github.com/kuhtini) helped me reach 23rd stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 22nd stars and 5th forks.
