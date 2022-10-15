@@ -59,3 +59,5 @@
 - [weeebdev](https://github.com/weeebdev) helped me reach 26th stars and 5th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 26th stars and 5th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 25th stars and 5th forks.
