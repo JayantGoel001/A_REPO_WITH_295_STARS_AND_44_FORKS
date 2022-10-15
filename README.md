@@ -53,3 +53,5 @@
 - [CelticBoozer](https://github.com/CelticBoozer) helped me reach 23rd stars and 5th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 23rd stars and 5th forks.
+
+- [Swayerka](https://github.com/Swayerka) helped me reach 23rd stars and 5th forks.
