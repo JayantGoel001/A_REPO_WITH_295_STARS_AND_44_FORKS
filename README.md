@@ -61,5 +61,3 @@
 - [bytestreme](https://github.com/bytestreme) helped me reach 27th stars and 4th forks.
 
 - [DiSTaRUS](https://github.com/DiSTaRUS) helped me reach 28th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 28th stars and 4th forks.
