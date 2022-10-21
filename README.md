@@ -71,5 +71,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 28th stars and 4th forks.
 
 - [wtfip](https://github.com/wtfip) helped me reach 29th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 28th stars and 4th forks.
