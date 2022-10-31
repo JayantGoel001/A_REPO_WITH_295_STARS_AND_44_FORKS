@@ -89,5 +89,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 30th stars and 4th forks.
 
 - [SergeyMC9730](https://github.com/SergeyMC9730) helped me reach 31st stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 31st stars and 4th forks.
