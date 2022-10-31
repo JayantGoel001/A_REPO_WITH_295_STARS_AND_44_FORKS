@@ -97,5 +97,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 32nd stars and 4th forks.
 
 - [Talon396](https://github.com/Talon396) helped me reach 33rd stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 33rd stars and 4th forks.
