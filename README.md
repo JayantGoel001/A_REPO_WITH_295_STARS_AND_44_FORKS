@@ -1,4 +1,4 @@
-# A REPO WITH 29 STARS ⭐️ AND 4 FORKS
+# A REPO WITH 30 STARS ⭐️ AND 4 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -83,3 +83,5 @@
 - [semyon422](https://github.com/semyon422) helped me reach 29th stars and 4th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 29th stars and 4th forks.
+
+- [taffarel55](https://github.com/taffarel55) helped me reach 30th stars and 4th forks.
