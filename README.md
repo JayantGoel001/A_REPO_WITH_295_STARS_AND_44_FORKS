@@ -1,4 +1,4 @@
-# A REPO WITH 34 STARS ⭐️ AND 5 FORKS
+# A REPO WITH 35 STARS ⭐️ AND 5 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -103,3 +103,5 @@
 - [LarryTheFatCat](https://github.com/LarryTheFatCat) helped me reach 34th stars and 4th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 34th stars and 5th forks.
+
+- [dsy4567](https://github.com/dsy4567) helped me reach 35th stars and 5th forks.
