@@ -107,3 +107,5 @@
 - [dsy4567](https://github.com/dsy4567) helped me reach 35th stars and 5th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 35th stars and 5th forks.
+
+- [Its-LALOL](https://github.com/Its-LALOL) helped me reach 35th stars and 5th forks.
