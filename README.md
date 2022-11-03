@@ -1,4 +1,4 @@
-# A REPO WITH 38 STARS ⭐️ AND 6 FORKS
+# A REPO WITH 39 STARS ⭐️ AND 6 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -131,3 +131,5 @@
 - [ThnksCJ](https://github.com/ThnksCJ) helped me reach 38th stars and 6th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 38th stars and 6th forks.
+
+- [Halqq](https://github.com/Halqq) helped me reach 39th stars and 6th forks.
