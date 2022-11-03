@@ -139,3 +139,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 39th stars and 6th forks.
 
 - [EBSmash](https://github.com/EBSmash) helped me reach 40th stars and 6th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 40th stars and 6th forks.
