@@ -143,3 +143,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 40th stars and 6th forks.
 
 - [HouseHouseCasa1](https://github.com/HouseHouseCasa1) helped me reach 41st stars and 6th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 41st stars and 6th forks.
