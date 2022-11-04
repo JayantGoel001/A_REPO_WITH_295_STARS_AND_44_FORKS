@@ -163,5 +163,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 44th stars and 6th forks.
 
 - [KanatiMC](https://github.com/KanatiMC) helped me reach 45th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 45th stars and 6th forks.
