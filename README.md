@@ -1,4 +1,4 @@
-# A REPO WITH 42 STARS ⭐️ AND 6 FORKS
+# A REPO WITH 43 STARS ⭐️ AND 6 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -149,3 +149,5 @@
 - [odpay](https://github.com/odpay) helped me reach 42nd stars and 6th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 42nd stars and 6th forks.
+
+- [Catuquei](https://github.com/Catuquei) helped me reach 43rd stars and 6th forks.
