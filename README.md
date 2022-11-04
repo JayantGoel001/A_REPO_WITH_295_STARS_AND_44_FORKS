@@ -155,5 +155,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 43rd stars and 6th forks.
 
 - [Catuquei](https://github.com/Catuquei) helped me reach 43rd stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 43rd stars and 6th forks.
