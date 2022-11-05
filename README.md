@@ -171,5 +171,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 46th stars and 6th forks.
 
 - [CDFN](https://github.com/CDFN) helped me reach 47th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 46th stars and 6th forks.
