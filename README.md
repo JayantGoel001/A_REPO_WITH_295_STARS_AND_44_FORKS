@@ -183,5 +183,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 47th stars and 6th forks.
 
 - [Rexogamer](https://github.com/Rexogamer) helped me reach 48th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 48th stars and 6th forks.
