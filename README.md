@@ -1,4 +1,4 @@
-# A REPO WITH 50 STARS ⭐️ AND 6 FORKS
+# A REPO WITH 51 STARS ⭐️ AND 6 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -189,3 +189,5 @@
 - [VulpoTheDev](https://github.com/VulpoTheDev) helped me reach 49th stars and 6th forks.
 
 - [Lunarequest](https://github.com/Lunarequest) helped me reach 50th stars and 6th forks.
+
+- [skepfusky](https://github.com/skepfusky) helped me reach 51st stars and 6th forks.
