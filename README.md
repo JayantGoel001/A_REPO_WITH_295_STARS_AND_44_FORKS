@@ -195,5 +195,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 51st stars and 6th forks.
 
 - [ZachyFoxx](https://github.com/ZachyFoxx) helped me reach 52nd stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 52nd stars and 6th forks.
