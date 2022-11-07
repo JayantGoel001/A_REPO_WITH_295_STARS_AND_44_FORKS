@@ -1,4 +1,4 @@
-# A REPO WITH 51 STARS ⭐️ AND 6 FORKS
+# A REPO WITH 52 STARS ⭐️ AND 6 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -193,3 +193,5 @@
 - [skepfusky](https://github.com/skepfusky) helped me reach 51st stars and 6th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 51st stars and 6th forks.
+
+- [ZachyFoxx](https://github.com/ZachyFoxx) helped me reach 52nd stars and 6th forks.
