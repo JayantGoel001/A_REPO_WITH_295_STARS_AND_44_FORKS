@@ -191,5 +191,3 @@
 - [Lunarequest](https://github.com/Lunarequest) helped me reach 50th stars and 6th forks.
 
 - [skepfusky](https://github.com/skepfusky) helped me reach 51st stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 51st stars and 6th forks.
