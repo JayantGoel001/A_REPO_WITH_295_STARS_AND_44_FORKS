@@ -227,3 +227,5 @@
 - [ItsAzaria](https://github.com/ItsAzaria) helped me reach 57th stars and 6th forks.
 
 - [ktwrd](https://github.com/ktwrd) helped me reach 57th stars and 6th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 57th stars and 6th forks.
