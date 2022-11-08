@@ -1,4 +1,4 @@
-# A REPO WITH 56 STARS ⭐️ AND 6 FORKS
+# A REPO WITH 57 STARS ⭐️ AND 6 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -223,3 +223,5 @@
 - [float3](https://github.com/float3) helped me reach 56th stars and 6th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 56th stars and 6th forks.
+
+- [ItsAzaria](https://github.com/ItsAzaria) helped me reach 57th stars and 6th forks.
