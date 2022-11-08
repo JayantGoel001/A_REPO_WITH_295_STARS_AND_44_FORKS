@@ -209,5 +209,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 54th stars and 6th forks.
 
 - [m1ten](https://github.com/m1ten) helped me reach 55th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 55th stars and 6th forks.
