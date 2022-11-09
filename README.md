@@ -1,4 +1,4 @@
-# A REPO WITH 60 STARS ⭐️ AND 7 FORKS
+# A REPO WITH 61 STARS ⭐️ AND 7 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -241,3 +241,5 @@
 - [horahoradev](https://github.com/horahoradev) helped me reach 60th stars and 7th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 60th stars and 7th forks.
+
+- [madhur](https://github.com/madhur) helped me reach 61st stars and 7th forks.
