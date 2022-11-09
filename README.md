@@ -251,5 +251,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 62nd stars and 7th forks.
 
 - [infi](https://github.com/infi) helped me reach 63rd stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 63rd stars and 7th forks.
