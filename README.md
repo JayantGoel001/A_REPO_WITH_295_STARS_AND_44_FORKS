@@ -271,5 +271,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 65th stars and 8th forks.
 
 - [Kadantte](https://github.com/Kadantte) helped me reach 66th stars and 9th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 66th stars and 9th forks.
