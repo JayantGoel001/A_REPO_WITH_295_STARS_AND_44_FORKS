@@ -259,5 +259,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 64th stars and 7th forks.
 
 - [Mar0xy](https://github.com/Mar0xy) helped me reach 64th stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 64th stars and 7th forks.
