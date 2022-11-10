@@ -64,127 +64,65 @@
 
 - [ChechenItza](https://github.com/ChechenItza) helped me reach 29th stars and 4th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 27th stars and 4th forks.
-
 - [ssch1337](https://github.com/ssch1337) helped me reach 28th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 28th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 27th stars and 4th forks.
 
 - [igoose1](https://github.com/igoose1) helped me reach 28th stars and 4th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 27th stars and 4th forks.
-
 - [daweedkob](https://github.com/daweedkob) helped me reach 28th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 28th stars and 4th forks.
 
 - [semyon422](https://github.com/semyon422) helped me reach 29th stars and 4th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 29th stars and 4th forks.
-
 - [taffarel55](https://github.com/taffarel55) helped me reach 30th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 30th stars and 4th forks.
 
 - [SergeyMC9730](https://github.com/SergeyMC9730) helped me reach 31st stars and 4th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 31st stars and 4th forks.
-
 - [muhopensores](https://github.com/muhopensores) helped me reach 32nd stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 32nd stars and 4th forks.
 
 - [Talon396](https://github.com/Talon396) helped me reach 33rd stars and 4th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 33rd stars and 4th forks.
-
 - [LarryTheFatCat](https://github.com/LarryTheFatCat) helped me reach 34th stars and 4th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 34th stars and 5th forks.
 
 - [dsy4567](https://github.com/dsy4567) helped me reach 35th stars and 5th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 35th stars and 5th forks.
-
 - [Its-LALOL](https://github.com/Its-LALOL) helped me reach 35th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 35th stars and 5th forks.
 
 - [N1ckn1ght](https://github.com/N1ckn1ght) helped me reach 36th stars and 5th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 36th stars and 5th forks.
-
 - [dsy4567](https://github.com/dsy4567) helped me reach 36th stars and 5th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 36th stars and 6th forks.
 
 - [xitowzys](https://github.com/xitowzys) helped me reach 37th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 37th stars and 6th forks.
-
 - [master7720](https://github.com/master7720) helped me reach 38th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 38th stars and 6th forks.
-
 - [ThnksCJ](https://github.com/ThnksCJ) helped me reach 38th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 38th stars and 6th forks.
 
 - [Halqq](https://github.com/Halqq) helped me reach 39th stars and 6th forks.
 
 - [PeterPePem](https://github.com/PeterPePem) helped me reach 39th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 39th stars and 6th forks.
-
 - [EBSmash](https://github.com/EBSmash) helped me reach 40th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 40th stars and 6th forks.
 
 - [HouseHouseCasa1](https://github.com/HouseHouseCasa1) helped me reach 41st stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 41st stars and 6th forks.
-
 - [odpay](https://github.com/odpay) helped me reach 42nd stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 42nd stars and 6th forks.
-
 - [Catuquei](https://github.com/Catuquei) helped me reach 43rd stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 43rd stars and 6th forks.
-
 - [Catuquei](https://github.com/Catuquei) helped me reach 43rd stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 43rd stars and 6th forks.
 
 - [jewbob](https://github.com/jewbob) helped me reach 44th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 44th stars and 6th forks.
-
 - [KanatiMC](https://github.com/KanatiMC) helped me reach 45th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 45th stars and 6th forks.
 
 - [Raposo5000](https://github.com/Raposo5000) helped me reach 46th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 46th stars and 6th forks.
-
 - [CDFN](https://github.com/CDFN) helped me reach 47th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 46th stars and 6th forks.
 
 - [zrdzn](https://github.com/zrdzn) helped me reach 47th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 47th stars and 6th forks.
-
 - [nvticzek](https://github.com/nvticzek) helped me reach 48th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 47th stars and 6th forks.
-
 - [Rexogamer](https://github.com/Rexogamer) helped me reach 48th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 48th stars and 6th forks.
 
 - [VulpoTheDev](https://github.com/VulpoTheDev) helped me reach 49th stars and 6th forks.
 
@@ -192,92 +130,48 @@
 
 - [skepfusky](https://github.com/skepfusky) helped me reach 51st stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 51st stars and 6th forks.
-
 - [ZachyFoxx](https://github.com/ZachyFoxx) helped me reach 52nd stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 52nd stars and 6th forks.
 
 - [rockofox](https://github.com/rockofox) helped me reach 53rd stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 53rd stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 54th stars and 6th forks.
-
 - [hypereg](https://github.com/hypereg) helped me reach 54th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 54th stars and 6th forks.
 
 - [m1ten](https://github.com/m1ten) helped me reach 55th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 55th stars and 6th forks.
-
 - [makifoxgirl](https://github.com/makifoxgirl) helped me reach 56th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 56th stars and 6th forks.
 
 - [dsy4567](https://github.com/dsy4567) helped me reach 56th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 56th stars and 6th forks.
-
 - [float3](https://github.com/float3) helped me reach 56th stars and 6th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 56th stars and 6th forks.
 
 - [ItsAzaria](https://github.com/ItsAzaria) helped me reach 57th stars and 6th forks.
 
 - [ktwrd](https://github.com/ktwrd) helped me reach 57th stars and 6th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 57th stars and 6th forks.
-
 - [Codel1417](https://github.com/Codel1417) helped me reach 58th stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 58th stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 59th stars and 7th forks.
 
 - [pema99](https://github.com/pema99) helped me reach 59th stars and 7th forks.
 
 - [horahoradev](https://github.com/horahoradev) helped me reach 60th stars and 7th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 60th stars and 7th forks.
-
 - [madhur](https://github.com/madhur) helped me reach 61st stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 61st stars and 7th forks.
 
 - [tatupesonen](https://github.com/tatupesonen) helped me reach 62nd stars and 7th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 62nd stars and 7th forks.
-
 - [infi](https://github.com/infi) helped me reach 63rd stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 63rd stars and 7th forks.
 
 - [realVincxnt2](https://github.com/realVincxnt2) helped me reach 64th stars and 7th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 64th stars and 7th forks.
-
 - [Mar0xy](https://github.com/Mar0xy) helped me reach 64th stars and 7th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 64th stars and 7th forks.
 
 - [bagel897](https://github.com/bagel897) helped me reach 65th stars and 7th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 64th stars and 7th forks.
-
 - [AnthonyEagle1776](https://github.com/AnthonyEagle1776) helped me reach 65th stars and 7th forks.
 
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 65th stars and 8th forks.
-
 - [Kadantte](https://github.com/Kadantte) helped me reach 66th stars and 9th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 66th stars and 9th forks.
 
 - [Henryws](https://github.com/Henryws) helped me reach 67th stars and 9th forks.
 
 - [Creveoolus](https://github.com/Creveoolus) helped me reach 68th stars and 9th forks.
 
 - [hwittenborn](https://github.com/hwittenborn) helped me reach 69th stars and 9th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 69th stars and 10th forks.
