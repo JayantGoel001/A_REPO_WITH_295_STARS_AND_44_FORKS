@@ -179,5 +179,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 69th stars and 10th forks.
 
 - [powderedd](https://github.com/powderedd) helped me reach 70th stars and 11th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 70th stars and 11th forks.
