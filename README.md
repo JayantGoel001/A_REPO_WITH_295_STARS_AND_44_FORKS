@@ -185,5 +185,3 @@
 - [tricantivu](https://github.com/tricantivu) helped me reach 71st stars and 11th forks.
 
 - [D-Brox](https://github.com/D-Brox) helped me reach 72nd stars and 11th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 72nd stars and 11th forks.
