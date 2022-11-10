@@ -187,5 +187,3 @@
 - [D-Brox](https://github.com/D-Brox) helped me reach 72nd stars and 11th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 72nd stars and 11th forks.
-
-- [skubcat](https://github.com/skubcat) helped me reach 73rd stars and 11th forks.
