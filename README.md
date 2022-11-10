@@ -175,5 +175,3 @@
 - [Creveoolus](https://github.com/Creveoolus) helped me reach 68th stars and 9th forks.
 
 - [hwittenborn](https://github.com/hwittenborn) helped me reach 69th stars and 9th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 69th stars and 10th forks.
