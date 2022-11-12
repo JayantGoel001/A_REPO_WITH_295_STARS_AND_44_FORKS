@@ -211,3 +211,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 75th stars and 10th forks.
 
 - [takase1121](https://github.com/takase1121) helped me reach 76th stars and 11th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 76th stars and 11th forks.
