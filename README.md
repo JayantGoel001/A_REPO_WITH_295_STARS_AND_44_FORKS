@@ -1,4 +1,4 @@
-# A REPO WITH 83 STARS ⭐️ AND 13 FORKS
+# A REPO WITH 84 STARS ⭐️ AND 13 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -257,3 +257,5 @@
 - [Lucifer25x](https://github.com/Lucifer25x) helped me reach 83rd stars and 13th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 83rd stars and 13th forks.
+
+- [ElCosmoXD](https://github.com/ElCosmoXD) helped me reach 84th stars and 13th forks.
