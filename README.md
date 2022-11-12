@@ -279,3 +279,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 87th stars and 13th forks.
 
 - [kirjavascript](https://github.com/kirjavascript) helped me reach 88th stars and 13th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 88th stars and 13th forks.
