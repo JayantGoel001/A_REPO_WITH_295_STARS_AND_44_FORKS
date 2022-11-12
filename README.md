@@ -1,4 +1,4 @@
-# A REPO WITH 78 STARS ⭐️ AND 12 FORKS
+# A REPO WITH 79 STARS ⭐️ AND 12 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -221,3 +221,5 @@
 - [kotazzz](https://github.com/kotazzz) helped me reach 78th stars and 12th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 78th stars and 12th forks.
+
+- [segfaultdev](https://github.com/segfaultdev) helped me reach 79th stars and 12th forks.
