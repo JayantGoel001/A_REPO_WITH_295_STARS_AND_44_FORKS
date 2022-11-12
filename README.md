@@ -235,5 +235,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 80th stars and 12th forks.
 
 - [AtieP](https://github.com/AtieP) helped me reach 81st stars and 12th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 80th stars and 12th forks.
