@@ -231,5 +231,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 79th stars and 12th forks.
 
 - [SystematicError](https://github.com/SystematicError) helped me reach 80th stars and 12th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 80th stars and 12th forks.
