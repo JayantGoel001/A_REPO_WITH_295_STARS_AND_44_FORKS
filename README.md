@@ -225,3 +225,5 @@
 - [segfaultdev](https://github.com/segfaultdev) helped me reach 79th stars and 12th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 79th stars and 12th forks.
+
+- [kawaegle](https://github.com/kawaegle) helped me reach 79th stars and 12th forks.
