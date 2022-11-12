@@ -259,5 +259,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 83rd stars and 13th forks.
 
 - [ElCosmoXD](https://github.com/ElCosmoXD) helped me reach 84th stars and 13th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 84th stars and 13th forks.
