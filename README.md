@@ -1,4 +1,4 @@
-# A REPO WITH 81 STARS ⭐️ AND 12 FORKS
+# A REPO WITH 82 STARS ⭐️ AND 12 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -245,3 +245,5 @@
 - [Supercip971](https://github.com/Supercip971) helped me reach 81st stars and 12th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 81st stars and 12th forks.
+
+- [nsauzede](https://github.com/nsauzede) helped me reach 82nd stars and 12th forks.
