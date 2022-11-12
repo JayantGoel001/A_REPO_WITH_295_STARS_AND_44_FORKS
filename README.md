@@ -249,5 +249,3 @@
 - [nsauzede](https://github.com/nsauzede) helped me reach 82nd stars and 12th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 82nd stars and 13th forks.
-
-- [sleepy-monax](https://github.com/sleepy-monax) helped me reach 82nd stars and 13th forks.
