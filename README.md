@@ -275,5 +275,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 87th stars and 13th forks.
 
 - [TheRealchr1s](https://github.com/TheRealchr1s) helped me reach 87th stars and 13th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 87th stars and 13th forks.
