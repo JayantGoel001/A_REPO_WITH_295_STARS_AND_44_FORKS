@@ -1,4 +1,4 @@
-# A REPO WITH 75 STARS ⭐️ AND 10 FORKS
+# A REPO WITH 76 STARS ⭐️ AND 11 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -209,3 +209,5 @@
 - [TorchedSammy](https://github.com/TorchedSammy) helped me reach 75th stars and 10th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 75th stars and 10th forks.
+
+- [takase1121](https://github.com/takase1121) helped me reach 76th stars and 11th forks.
