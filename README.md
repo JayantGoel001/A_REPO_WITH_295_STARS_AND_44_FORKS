@@ -1,4 +1,4 @@
-# A REPO WITH 97 STARS ⭐️ AND 15 FORKS
+# A REPO WITH 98 STARS ⭐️ AND 15 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -327,3 +327,5 @@
 - [ox-y](https://github.com/ox-y) helped me reach 97th stars and 15th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 97th stars and 15th forks.
+
+- [Elagoht](https://github.com/Elagoht) helped me reach 98th stars and 15th forks.
