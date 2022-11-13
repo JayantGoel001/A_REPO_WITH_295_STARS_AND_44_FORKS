@@ -335,5 +335,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 98th stars and 15th forks.
 
 - [dtcooper](https://github.com/dtcooper) helped me reach 99th stars and 15th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 98th stars and 15th forks.
