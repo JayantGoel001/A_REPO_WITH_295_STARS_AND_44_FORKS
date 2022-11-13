@@ -1,4 +1,4 @@
-# A REPO WITH 88 STARS ⭐️ AND 13 FORKS
+# A REPO WITH 89 STARS ⭐️ AND 13 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -281,3 +281,5 @@
 - [kirjavascript](https://github.com/kirjavascript) helped me reach 88th stars and 13th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 88th stars and 13th forks.
+
+- [leap0x7b](https://github.com/leap0x7b) helped me reach 89th stars and 13th forks.
