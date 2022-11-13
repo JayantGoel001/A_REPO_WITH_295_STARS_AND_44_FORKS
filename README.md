@@ -343,5 +343,3 @@
 - [pgosar](https://github.com/pgosar) helped me reach 99th stars and 16th forks.
 
 - [Kutaygb](https://github.com/Kutaygb) helped me reach 100th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 100th stars and 16th forks.
