@@ -325,3 +325,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 96th stars and 15th forks.
 
 - [ox-y](https://github.com/ox-y) helped me reach 97th stars and 15th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 97th stars and 15th forks.
