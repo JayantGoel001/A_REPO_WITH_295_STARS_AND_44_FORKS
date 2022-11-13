@@ -313,5 +313,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 93rd stars and 14th forks.
 
 - [oofdere](https://github.com/oofdere) helped me reach 94th stars and 15th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 94th stars and 15th forks.
