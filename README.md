@@ -1,4 +1,4 @@
-# A REPO WITH 94 STARS ⭐️ AND 15 FORKS
+# A REPO WITH 95 STARS ⭐️ AND 15 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -315,3 +315,5 @@
 - [oofdere](https://github.com/oofdere) helped me reach 94th stars and 15th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 94th stars and 15th forks.
+
+- [CanKolay3499](https://github.com/CanKolay3499) helped me reach 95th stars and 15th forks.
