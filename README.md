@@ -321,3 +321,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 95th stars and 15th forks.
 
 - [s1ntaxe770r](https://github.com/s1ntaxe770r) helped me reach 96th stars and 15th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 96th stars and 15th forks.
