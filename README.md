@@ -1,4 +1,4 @@
-# A REPO WITH 104 STARS ⭐️ AND 16 FORKS
+# A REPO WITH 105 STARS ⭐️ AND 16 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -357,3 +357,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 103rd stars and 16th forks.
 
 - [morrig-n](https://github.com/morrig-n) helped me reach 104th stars and 16th forks.
+
+- [LunaAmora](https://github.com/LunaAmora) helped me reach 105th stars and 16th forks.
