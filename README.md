@@ -349,5 +349,3 @@
 - [CocoSimone](https://github.com/CocoSimone) helped me reach 101st stars and 16th forks.
 
 - [rohinsood](https://github.com/rohinsood) helped me reach 102nd stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 102nd stars and 16th forks.
