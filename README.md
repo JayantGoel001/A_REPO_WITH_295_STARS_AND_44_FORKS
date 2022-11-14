@@ -1,4 +1,4 @@
-# A REPO WITH 105 STARS ⭐️ AND 16 FORKS
+# A REPO WITH 106 STARS ⭐️ AND 16 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -361,3 +361,5 @@
 - [LunaAmora](https://github.com/LunaAmora) helped me reach 105th stars and 16th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 105th stars and 16th forks.
+
+- [redraw](https://github.com/redraw) helped me reach 106th stars and 16th forks.
