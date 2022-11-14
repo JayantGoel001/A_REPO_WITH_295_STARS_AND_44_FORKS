@@ -353,5 +353,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 102nd stars and 16th forks.
 
 - [keyboard-slayer](https://github.com/keyboard-slayer) helped me reach 103rd stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 103rd stars and 16th forks.
