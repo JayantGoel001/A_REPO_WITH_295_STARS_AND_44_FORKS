@@ -359,5 +359,3 @@
 - [morrig-n](https://github.com/morrig-n) helped me reach 104th stars and 16th forks.
 
 - [LunaAmora](https://github.com/LunaAmora) helped me reach 105th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 105th stars and 16th forks.
