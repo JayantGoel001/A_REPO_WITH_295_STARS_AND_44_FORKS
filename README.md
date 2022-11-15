@@ -369,5 +369,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 104th stars and 16th forks.
 
 - [ayes-web](https://github.com/ayes-web) helped me reach 105th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 105th stars and 16th forks.
