@@ -385,5 +385,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 107th stars and 16th forks.
 
 - [AlexTatis](https://github.com/AlexTatis) helped me reach 108th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 108th stars and 16th forks.
