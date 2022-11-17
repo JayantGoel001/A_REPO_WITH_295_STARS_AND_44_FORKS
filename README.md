@@ -413,5 +413,3 @@
 - [gandalf3](https://github.com/gandalf3) helped me reach 110th stars and 17th forks.
 
 - [okawaffles](https://github.com/okawaffles) helped me reach 111th stars and 17th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 111th stars and 17th forks.
