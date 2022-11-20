@@ -1,4 +1,4 @@
-# A REPO WITH 125 STARS ⭐️ AND 16 FORKS
+# A REPO WITH 126 STARS ⭐️ AND 17 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -489,3 +489,5 @@
 - [triphora](https://github.com/triphora) helped me reach 125th stars and 16th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 125th stars and 16th forks.
+
+- [Titaniumtown](https://github.com/Titaniumtown) helped me reach 126th stars and 17th forks.
