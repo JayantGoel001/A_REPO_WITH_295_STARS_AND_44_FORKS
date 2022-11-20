@@ -487,5 +487,3 @@
 - [Chew](https://github.com/Chew) helped me reach 124th stars and 16th forks.
 
 - [triphora](https://github.com/triphora) helped me reach 125th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 125th stars and 16th forks.
