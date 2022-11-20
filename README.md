@@ -549,3 +549,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 141st stars and 20th forks.
 
 - [KernelFreeze](https://github.com/KernelFreeze) helped me reach 142nd stars and 20th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 142nd stars and 20th forks.
