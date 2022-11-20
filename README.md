@@ -471,5 +471,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 119th stars and 16th forks.
 
 - [mczph](https://github.com/mczph) helped me reach 120th stars and 16th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 120th stars and 16th forks.
