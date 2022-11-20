@@ -1,4 +1,4 @@
-# A REPO WITH 132 STARS ⭐️ AND 17 FORKS
+# A REPO WITH 133 STARS ⭐️ AND 17 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -511,3 +511,5 @@
 - [bbSnavy](https://github.com/bbSnavy) helped me reach 132nd stars and 17th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 132nd stars and 17th forks.
+
+- [knightzmc](https://github.com/knightzmc) helped me reach 133rd stars and 17th forks.
