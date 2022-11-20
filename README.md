@@ -553,3 +553,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 142nd stars and 20th forks.
 
 - [MetTheCarrot](https://github.com/MetTheCarrot) helped me reach 143rd stars and 20th forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 143rd stars and 20th forks.
