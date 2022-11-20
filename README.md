@@ -505,3 +505,5 @@
 - [TIny-Hacker](https://github.com/TIny-Hacker) helped me reach 129th stars and 17th forks.
 
 - [kotx](https://github.com/kotx) helped me reach 131st stars and 17th forks.
+
+- [auravoid](https://github.com/auravoid) helped me reach 131st stars and 17th forks.
