@@ -603,5 +603,3 @@
 - [RengeLK](https://github.com/RengeLK) helped me reach 155th stars and 24th forks.
 
 - [JaaiDead](https://github.com/JaaiDead) helped me reach 156th stars and 24th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 155th stars and 24th forks.
