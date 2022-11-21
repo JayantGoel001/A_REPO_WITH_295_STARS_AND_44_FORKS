@@ -1,4 +1,4 @@
-# A REPO WITH 145 STARS ⭐️ AND 21 FORKS
+# A REPO WITH 146 STARS ⭐️ AND 21 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -559,3 +559,5 @@
 - [Puyodead1](https://github.com/Puyodead1) helped me reach 144th stars and 20th forks.
 
 - [joerkig](https://github.com/joerkig) helped me reach 145th stars and 21st forks.
+
+- [jadelily18](https://github.com/jadelily18) helped me reach 146th stars and 21st forks.
