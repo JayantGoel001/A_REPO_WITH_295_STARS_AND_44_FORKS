@@ -571,3 +571,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 147th stars and 22nd forks.
 
 - [BrycensRanch](https://github.com/BrycensRanch) helped me reach 148th stars and 22nd forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 148th stars and 23rd forks.
