@@ -579,5 +579,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 149th stars and 23rd forks.
 
 - [TrapinchO](https://github.com/TrapinchO) helped me reach 150th stars and 23rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 150th stars and 23rd forks.
