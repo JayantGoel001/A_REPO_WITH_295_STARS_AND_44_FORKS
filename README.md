@@ -593,5 +593,3 @@
 - [Zeryther](https://github.com/Zeryther) helped me reach 152nd stars and 23rd forks.
 
 - [Zarkness](https://github.com/Zarkness) helped me reach 153rd stars and 23rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 153rd stars and 23rd forks.
