@@ -597,5 +597,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 153rd stars and 23rd forks.
 
 - [Nanobot567](https://github.com/Nanobot567) helped me reach 154th stars and 23rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 154th stars and 24th forks.
