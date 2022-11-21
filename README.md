@@ -567,5 +567,3 @@
 - [dochi2350](https://github.com/dochi2350) helped me reach 147th stars and 21st forks.
 
 - [angrymouse](https://github.com/angrymouse) helped me reach 148th stars and 22nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 147th stars and 22nd forks.
