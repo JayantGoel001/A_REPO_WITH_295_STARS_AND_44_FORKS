@@ -669,5 +669,3 @@
 - [Battlesquid](https://github.com/Battlesquid) helped me reach 168th stars and 27th forks.
 
 - [serivesmejia](https://github.com/serivesmejia) helped me reach 169th stars and 26th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 169th stars and 26th forks.
