@@ -1,4 +1,4 @@
-# A REPO WITH 182 STARS ⭐️ AND 27 FORKS
+# A REPO WITH 183 STARS ⭐️ AND 27 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -723,3 +723,5 @@
 - [andrebtw](https://github.com/andrebtw) helped me reach 182nd stars and 27th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 182nd stars and 27th forks.
+
+- [QuanTrieuPCYT](https://github.com/QuanTrieuPCYT) helped me reach 183rd stars and 27th forks.
