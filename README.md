@@ -1,4 +1,4 @@
-# A REPO WITH 190 STARS ⭐️ AND 29 FORKS
+# A REPO WITH 191 STARS ⭐️ AND 29 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -753,3 +753,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 189th stars and 29th forks.
 
 - [GerardoWacker](https://github.com/GerardoWacker) helped me reach 190th stars and 29th forks.
+
+- [zeriaxdev](https://github.com/zeriaxdev) helped me reach 191st stars and 29th forks.
