@@ -791,5 +791,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 199th stars and 30th forks.
 
 - [javierd79](https://github.com/javierd79) helped me reach 200th stars and 30th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 200th stars and 30th forks.
