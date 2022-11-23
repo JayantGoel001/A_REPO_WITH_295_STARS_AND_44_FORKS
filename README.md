@@ -779,5 +779,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 197th stars and 30th forks.
 
 - [doctormagico](https://github.com/doctormagico) helped me reach 198th stars and 30th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 198th stars and 30th forks.
