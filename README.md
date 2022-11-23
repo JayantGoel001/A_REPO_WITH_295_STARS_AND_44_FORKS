@@ -727,5 +727,3 @@
 - [QuanTrieuPCYT](https://github.com/QuanTrieuPCYT) helped me reach 183rd stars and 27th forks.
 
 - [Pabszito](https://github.com/Pabszito) helped me reach 184th stars and 27th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 184th stars and 27th forks.
