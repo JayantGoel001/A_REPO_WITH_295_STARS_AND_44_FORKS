@@ -1,4 +1,4 @@
-# A REPO WITH 203 STARS ⭐️ AND 33 FORKS
+# A REPO WITH 204 STARS ⭐️ AND 33 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -843,3 +843,5 @@
 - [Theblockbuster1](https://github.com/Theblockbuster1) helped me reach 203rd stars and 33rd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 203rd stars and 33rd forks.
+
+- [DiegoNighty](https://github.com/DiegoNighty) helped me reach 204th stars and 33rd forks.
