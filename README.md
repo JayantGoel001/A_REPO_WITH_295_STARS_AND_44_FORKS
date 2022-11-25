@@ -837,5 +837,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 201st stars and 33rd forks.
 
 - [PotatoSUS](https://github.com/PotatoSUS) helped me reach 202nd stars and 33rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 202nd stars and 33rd forks.
