@@ -861,5 +861,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 205th stars and 33rd forks.
 
 - [ryanccn](https://github.com/ryanccn) helped me reach 206th stars and 33rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 206th stars and 33rd forks.
