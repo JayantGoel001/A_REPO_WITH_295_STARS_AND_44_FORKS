@@ -1,4 +1,4 @@
-# A REPO WITH 204 STARS ⭐️ AND 33 FORKS
+# A REPO WITH 205 STARS ⭐️ AND 33 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -855,3 +855,5 @@
 - [InFTord](https://github.com/InFTord) helped me reach 204th stars and 33rd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 204th stars and 33rd forks.
+
+- [iNyatix](https://github.com/iNyatix) helped me reach 205th stars and 33rd forks.
