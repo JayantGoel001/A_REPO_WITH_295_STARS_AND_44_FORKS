@@ -917,5 +917,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 213th stars and 32nd forks.
 
 - [Slav-XpXz](https://github.com/Slav-XpXz) helped me reach 214th stars and 33rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 214th stars and 33rd forks.
