@@ -935,5 +935,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 216th stars and 33rd forks.
 
 - [notnotnotswipez](https://github.com/notnotnotswipez) helped me reach 217th stars and 33rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 217th stars and 33rd forks.
