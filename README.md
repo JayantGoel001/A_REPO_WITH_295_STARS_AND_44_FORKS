@@ -993,5 +993,3 @@
 - [datrolling](https://github.com/datrolling) helped me reach 228th stars and 33rd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 228th stars and 33rd forks.
-
-- [vivCoding](https://github.com/vivCoding) helped me reach 229th stars and 33rd forks.
