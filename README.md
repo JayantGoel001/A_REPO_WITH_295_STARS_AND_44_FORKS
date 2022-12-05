@@ -1053,5 +1053,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 236th stars and 34th forks.
 
 - [melg8](https://github.com/melg8) helped me reach 237th stars and 34th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 237th stars and 34th forks.
