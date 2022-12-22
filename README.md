@@ -1123,5 +1123,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 245th stars and 37th forks.
 
 - [CGod-dev](https://github.com/CGod-dev) helped me reach 246th stars and 37th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 246th stars and 37th forks.
