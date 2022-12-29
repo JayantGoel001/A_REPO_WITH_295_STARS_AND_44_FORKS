@@ -1145,5 +1145,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 246th stars and 38th forks.
 
 - [emmilydev](https://github.com/emmilydev) helped me reach 247th stars and 38th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 247th stars and 38th forks.
