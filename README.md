@@ -1167,5 +1167,3 @@
 - [microsounds](https://github.com/microsounds) helped me reach 248th stars and 38th forks.
 
 - [microsounds](https://github.com/microsounds) helped me reach 249th stars and 38th forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 249th stars and 38th forks.
