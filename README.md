@@ -1313,3 +1313,5 @@
 - [social-anthrax](https://github.com/social-anthrax) helped me reach 269th stars and 39th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 269th stars and 39th forks.
+
+- [itsyaasir](https://github.com/itsyaasir) helped me reach 269th stars and 39th forks.
