@@ -1,4 +1,4 @@
-# A REPO WITH 269 STARS ⭐️ AND 39 FORKS
+# A REPO WITH 270 STARS ⭐️ AND 39 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -1317,3 +1317,5 @@
 - [itsyaasir](https://github.com/itsyaasir) helped me reach 269th stars and 39th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 269th stars and 39th forks.
+
+- [SevenworksDev](https://github.com/SevenworksDev) helped me reach 270th stars and 39th forks.
