@@ -1,4 +1,4 @@
-# A REPO WITH 263 STARS ⭐️ AND 39 FORKS
+# A REPO WITH 264 STARS ⭐️ AND 39 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -1285,3 +1285,5 @@
 - [shqword](https://github.com/shqword) helped me reach 263rd stars and 39th forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 263rd stars and 39th forks.
+
+- [git-eternal](https://github.com/git-eternal) helped me reach 264th stars and 39th forks.
