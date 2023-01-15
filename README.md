@@ -1335,5 +1335,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 272nd stars and 41st forks.
 
 - [LAPCoder](https://github.com/LAPCoder) helped me reach 273rd stars and 41st forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 273rd stars and 41st forks.
