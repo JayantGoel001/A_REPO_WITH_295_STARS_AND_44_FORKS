@@ -1393,5 +1393,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 282nd stars and 42nd forks.
 
 - [kseiru](https://github.com/kseiru) helped me reach 283rd stars and 42nd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 283rd stars and 42nd forks.
