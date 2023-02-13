@@ -1,4 +1,4 @@
-# A REPO WITH 285 STARS ⭐️ AND 42 FORKS
+# A REPO WITH 284 STARS ⭐️ AND 42 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -1441,3 +1441,5 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 284th stars and 42nd forks.
 
 - [Northernside](https://github.com/Northernside) helped me reach 285th stars and 42nd forks.
+
+- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 284th stars and 42nd forks.
