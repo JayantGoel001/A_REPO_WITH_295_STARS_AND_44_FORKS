@@ -1447,3 +1447,5 @@
 - [l3nnartt](https://github.com/l3nnartt) helped me reach 285th stars and 42nd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 285th stars and 42nd forks.
+
+- [haile-selassie](https://github.com/haile-selassie) helped me reach 285th stars and 42nd forks.
