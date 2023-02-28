@@ -1507,5 +1507,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 291st stars and 43rd forks.
 
 - [gatomo-oficial](https://github.com/gatomo-oficial) helped me reach 291st stars and 43rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 291st stars and 43rd forks.
