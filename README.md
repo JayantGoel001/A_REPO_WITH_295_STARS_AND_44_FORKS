@@ -1,4 +1,4 @@
-# A REPO WITH 294 STARS ⭐️ AND 43 FORKS
+# A REPO WITH 295 STARS ⭐️ AND 44 FORKS
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 1st stars and 0th forks.
 
@@ -1553,3 +1553,5 @@
 - [Quackdoc](https://github.com/Quackdoc) helped me reach 294th stars and 43rd forks.
 
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 294th stars and 43rd forks.
+
+- [Segilmez06](https://github.com/Segilmez06) helped me reach 295th stars and 44th forks.
