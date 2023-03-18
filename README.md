@@ -1551,5 +1551,3 @@
 - [JayantGoel001](https://github.com/JayantGoel001) helped me reach 293rd stars and 43rd forks.
 
 - [Quackdoc](https://github.com/Quackdoc) helped me reach 294th stars and 43rd forks.
-
-- [JayantGoel001](https://github.com/JayantGoel001) helped me reach 294th stars and 43rd forks.
